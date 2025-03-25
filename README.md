@@ -30,6 +30,9 @@ A **modern, fast, and responsive trip booking website** built with **React.js, V
 🎭 FontAwesome – Icons for better UX
 
 ---
+
+### 🚀 Live Demo: https://tripbookingproject.netlify.app/
+
 ## 🛠️ Installation & Setup
 
 ### 1️⃣ **Clone the Repository** -
