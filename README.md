@@ -15,7 +15,8 @@ A **modern, fast, and responsive trip booking website** built with **React.js, V
 
 ---
 
-📌 Technologies Used
+### 📌 Technologies Used
+
 ⚡ Vite – Fast React build tool
 
 ⚛ React.js – Component-based UI
@@ -33,14 +34,14 @@ A **modern, fast, and responsive trip booking website** built with **React.js, V
 
 ### 1️⃣ **Clone the Repository** -
 
-git clone https://github.com/yuvrajs5/TripBooking.git
-cd TripBooking
+-git clone https://github.com/yuvrajs5/TripBooking.git
+-cd TripBooking
 
 
 ### 2️⃣ Install Dependencies -
 npm install
 
-3️⃣ Start the Development Server -
+### 3️⃣ Start the Development Server -
 npm run dev
 
 
