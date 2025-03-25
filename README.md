@@ -1,12 +1,47 @@
-# React + Vite
+# 🏝️ Trip Booking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern, fast, and responsive trip booking website** built with **React.js, Vite, and CSS**. Users can search, explore, and book exciting trips to various destinations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✅ **Fast & Optimized** – Built with **Vite.js** for instant load times.  
+✅ **Responsive Design** – Mobile-friendly UI using **CSS Flexbox & Grid**.  
+✅ **Trip Search Functionality** – Browse & book trips with ease.  
+✅ **Date Selection** – Integrated with **date-fns** and **react-date-range**.  
+✅ **React Router** – Seamless navigation without page reloads.  
+✅ **FontAwesome Icons** – Enhanced user interface with visually appealing icons.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+📌 Technologies Used
+⚡ Vite – Fast React build tool
+
+⚛ React.js – Component-based UI
+
+🎨 CSS (Flexbox & Grid) – Responsive UI
+
+🔄 React Router DOM – Client-side routing
+
+🗓 date-fns & react-date-range – Date picker
+
+🎭 FontAwesome – Icons for better UX
+
+---
+## 🛠️ Installation & Setup
+
+### 1️⃣ **Clone the Repository** -
+
+git clone https://github.com/yuvrajs5/TripBooking.git
+cd TripBooking
+
+
+### 2️⃣ Install Dependencies -
+npm install
+
+3️⃣ Start the Development Server -
+npm run dev
+
+
+📌 Open http://localhost:5173/ in your browser to view the app.
